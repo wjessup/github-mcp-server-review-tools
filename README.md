@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wjessup-github-mcp-server-review-tools-badge.png)](https://mseep.ai/app/wjessup-github-mcp-server-review-tools)
+
 
 
 Tools:
